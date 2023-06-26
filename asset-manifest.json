@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_practice_router_repeta/static/css/main.7acaea2f.css",
+    "main.js": "/react_practice_router_repeta/static/js/main.a08b6b4c.js",
+    "index.html": "/react_practice_router_repeta/index.html",
+    "main.7acaea2f.css.map": "/react_practice_router_repeta/static/css/main.7acaea2f.css.map",
+    "main.a08b6b4c.js.map": "/react_practice_router_repeta/static/js/main.a08b6b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a08b6b4c.js"
+  ]
+}
